@@ -31,9 +31,8 @@ If you have any resources or recommendations in these fields, feel free to share
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
-- Facebook: [@YourTwitterHandle](link-to-twitter)
+- LinkedIn: [Sabind Aryal](link-to-linkedin](https://www.linkedin.com/in/sabind-aryal-a6673a276/)
+- Instagram: [@sabind_art]
 
 Feel free to reach out if you have any questions, collaboration opportunities, or if you just want to chat about technology or any of my projects!
 
